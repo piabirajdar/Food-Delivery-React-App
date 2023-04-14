@@ -1,0 +1,2534 @@
+[
+    {
+        "type": "restaurant",
+        "data": {
+          "type": "F",
+          "id": "37306",
+          "name": "Waari Book Cafe",
+          "uuid": "be5a4153-0d61-4cae-ba68-cf13da9cdaff",
+          "city": "6",
+          "area": "Kothrud",
+          "totalRatingsString": "5000+ ratings",
+          "cloudinaryImageId": "pgpaxwljireaumfkezhr",
+          "cuisines": [
+            "Desserts"
+          ],
+          "tags": [
+            
+          ],
+          "costForTwo": 20000,
+          "costForTwoString": "₹200 FOR TWO",
+          "deliveryTime": 30,
+          "minDeliveryTime": 30,
+          "maxDeliveryTime": 30,
+          "slaString": "30 MINS",
+          "lastMileTravel": 4.699999809265137,
+          "slugs": {
+            "restaurant": "waari-book-cafe-kothrud-kothrud",
+            "city": "pune"
+          },
+          "cityState": "6",
+          "address": "Ground Floor, Choice Institute, Near Choice Health Club, Near Karishma Chowk, Off Karve Road, Kothrud, Pune",
+          "locality": "Kai Pu Bha Bhave Marge",
+          "parentId": 224770,
+          "unserviceable": false,
+          "veg": true,
+          "select": false,
+          "favorite": false,
+          "tradeCampaignHeaders": [
+            
+          ],
+          "aggregatedDiscountInfo": {
+            "header": "40% off",
+            "shortDescriptionList": [
+              {
+                "meta": "40% off | Use TRYNEW",
+                "discountType": "Percentage",
+                "operationType": "RESTAURANT"
+              }
+            ],
+            "descriptionList": [
+              {
+                "meta": "40% off up to ₹80 | Use code TRYNEW",
+                "discountType": "Percentage",
+                "operationType": "RESTAURANT"
+              }
+            ],
+            "subHeader": "",
+            "headerType": 0,
+            "superFreedel": ""
+          },
+          "aggregatedDiscountInfoV2": {
+            "header": "40% OFF",
+            "shortDescriptionList": [
+              {
+                "meta": "Use TRYNEW",
+                "discountType": "Percentage",
+                "operationType": "RESTAURANT"
+              }
+            ],
+            "descriptionList": [
+              {
+                "meta": "40% off up to ₹80 | Use code TRYNEW",
+                "discountType": "Percentage",
+                "operationType": "RESTAURANT"
+              }
+            ],
+            "subHeader": "",
+            "headerType": 0,
+            "superFreedel": ""
+          },
+          "chain": [
+            
+          ],
+          "feeDetails": {
+            "fees": [
+              {
+                "name": "distance",
+                "fee": 5600,
+                "message": ""
+              },
+              {
+                "name": "time",
+                "fee": 0,
+                "message": ""
+              },
+              {
+                "name": "special",
+                "fee": 0,
+                "message": ""
+              }
+            ],
+            "totalFees": 5600,
+            "message": "",
+            "title": "Delivery Charge",
+            "amount": "5600",
+            "icon": ""
+          },
+          "availability": {
+            "opened": true,
+            "nextOpenMessage": "",
+            "nextCloseMessage": ""
+          },
+          "longDistanceEnabled": 0,
+          "rainMode": "NONE",
+          "thirdPartyAddress": false,
+          "thirdPartyVendor": "",
+          "adTrackingID": "",
+          "badges": {
+            "imageBased": [
+              
+            ],
+            "textBased": [
+              
+            ],
+            "textExtendedBadges": [
+              
+            ]
+          },
+          "lastMileTravelString": "4.6 kms",
+          "hasSurge": false,
+          "sla": {
+            "restaurantId": "37306",
+            "deliveryTime": 30,
+            "minDeliveryTime": 30,
+            "maxDeliveryTime": 30,
+            "lastMileTravel": 4.699999809265137,
+            "lastMileDistance": 0,
+            "serviceability": "SERVICEABLE",
+            "rainMode": "NONE",
+            "longDistance": "NOT_LONG_DISTANCE",
+            "preferentialService": false,
+            "iconType": "EMPTY"
+          },
+          "promoted": false,
+          "avgRating": "3.6",
+          "totalRatings": 5000,
+          "new": false
+        },
+        "subtype": "basic"
+      },
+      {
+        "type": "restaurant",
+        "data": {
+          "type": "F",
+          "id": "303719",
+          "name": "The Waffle Jar",
+          "uuid": "c701d0e8-6b6f-48ce-a1f5-508d111cdc2b",
+          "city": "6",
+          "area": "Erandwane",
+          "totalRatingsString": "500+ ratings",
+          "cloudinaryImageId": "yvbs8m7zxtvvzwszf79v",
+          "cuisines": [
+            "Bakery",
+            "Desserts",
+            "Ice Cream"
+          ],
+          "tags": [
+            
+          ],
+          "costForTwo": 20000,
+          "costForTwoString": "₹200 FOR TWO",
+          "deliveryTime": 30,
+          "minDeliveryTime": 30,
+          "maxDeliveryTime": 30,
+          "slaString": "30 MINS",
+          "lastMileTravel": 4.300000190734863,
+          "slugs": {
+            "restaurant": "the-waffle-jar-kothrud-kothrud",
+            "city": "pune"
+          },
+          "cityState": "6",
+          "address": "101, First Floor , Satyam Industrial Estate , SBI - CDSS Lane(Cummins) ,pandurang colony, Erandwane, Pune, Maharashtra 411038",
+          "locality": "Pandurang Colony",
+          "parentId": 18895,
+          "unserviceable": false,
+          "veg": true,
+          "select": false,
+          "favorite": false,
+          "tradeCampaignHeaders": [
+            
+          ],
+          "aggregatedDiscountInfo": {
+            "header": "50% off",
+            "shortDescriptionList": [
+              {
+                "meta": "50% off | Use TRYNEW",
+                "discountType": "Percentage",
+                "operationType": "RESTAURANT"
+              }
+            ],
+            "descriptionList": [
+              {
+                "meta": "50% off up to ₹100 | Use code TRYNEW",
+                "discountType": "Percentage",
+                "operationType": "RESTAURANT"
+              }
+            ],
+            "subHeader": "",
+            "headerType": 0,
+            "superFreedel": ""
+          },
+          "aggregatedDiscountInfoV2": {
+            "header": "50% OFF",
+            "shortDescriptionList": [
+              {
+                "meta": "Use TRYNEW",
+                "discountType": "Percentage",
+                "operationType": "RESTAURANT"
+              }
+            ],
+            "descriptionList": [
+              {
+                "meta": "50% off up to ₹100 | Use code TRYNEW",
+                "discountType": "Percentage",
+                "operationType": "RESTAURANT"
+              }
+            ],
+            "subHeader": "",
+            "headerType": 0,
+            "superFreedel": ""
+          },
+          "chain": [
+            
+          ],
+          "feeDetails": {
+            "fees": [
+              {
+                "name": "time",
+                "fee": 0,
+                "message": ""
+              },
+              {
+                "name": "distance",
+                "fee": 5600,
+                "message": ""
+              },
+              {
+                "name": "special",
+                "fee": 0,
+                "message": ""
+              }
+            ],
+            "totalFees": 5600,
+            "message": "",
+            "title": "Delivery Charge",
+            "amount": "5600",
+            "icon": ""
+          },
+          "availability": {
+            "opened": true,
+            "nextOpenMessage": "",
+            "nextCloseMessage": ""
+          },
+          "longDistanceEnabled": 0,
+          "rainMode": "NONE",
+          "thirdPartyAddress": false,
+          "thirdPartyVendor": "",
+          "adTrackingID": "",
+          "badges": {
+            "imageBased": [
+              
+            ],
+            "textBased": [
+              
+            ],
+            "textExtendedBadges": [
+              
+            ]
+          },
+          "lastMileTravelString": "4.3 kms",
+          "hasSurge": false,
+          "sla": {
+            "restaurantId": "303719",
+            "deliveryTime": 30,
+            "minDeliveryTime": 30,
+            "maxDeliveryTime": 30,
+            "lastMileTravel": 4.300000190734863,
+            "lastMileDistance": 0,
+            "serviceability": "SERVICEABLE",
+            "rainMode": "NONE",
+            "longDistance": "NOT_LONG_DISTANCE",
+            "preferentialService": false,
+            "iconType": "EMPTY"
+          },
+          "promoted": false,
+          "avgRating": "3.5",
+          "totalRatings": 500,
+          "new": false
+        },
+        "subtype": "basic"
+      },
+    {
+        "type": "restaurant",
+        "data": {
+          "type": "F",
+          "id": "73861",
+          "name": "Cafe Dreamland",
+          "uuid": "341915a8-3bb6-4df9-8998-8ae2cd44f3d8",
+          "city": "6",
+          "area": "Kothrud",
+          "totalRatingsString": "1000+ ratings",
+          "cloudinaryImageId": "atpztd4pbe9z5coskdc4",
+          "cuisines": [
+            "Desserts"
+          ],
+          "tags": [
+            
+          ],
+          "costForTwo": 40000,
+          "costForTwoString": "₹400 FOR TWO",
+          "deliveryTime": 31,
+          "minDeliveryTime": 31,
+          "maxDeliveryTime": 31,
+          "slaString": "31 MINS",
+          "lastMileTravel": 4.699999809265137,
+          "slugs": {
+            "restaurant": "cafe-dreamland-kothrud-kondhwa",
+            "city": "pune"
+          },
+          "cityState": "6",
+          "address": "Choice group ground floor nearby McDonald's Karishma Chowk Karve Road Kothrud 411 038",
+          "locality": "Kai Pu Bha Bhave Marge",
+          "parentId": 5778,
+          "unserviceable": false,
+          "veg": true,
+          "select": false,
+          "favorite": false,
+          "tradeCampaignHeaders": [
+            
+          ],
+          "aggregatedDiscountInfo": {
+            "header": "Flat ₹125 off",
+            "shortDescriptionList": [
+              {
+                "meta": "Flat ₹125 off on orders above ₹249",
+                "discountType": "Flat",
+                "operationType": "RESTAURANT"
+              }
+            ],
+            "descriptionList": [
+              {
+                "meta": "Flat ₹125 off on orders above ₹249 | Use code MATCHDEAL125",
+                "discountType": "Flat",
+                "operationType": "RESTAURANT"
+              }
+            ],
+            "subHeader": "",
+            "headerType": 0,
+            "superFreedel": ""
+          },
+          "aggregatedDiscountInfoV2": {
+            "header": "₹125 OFF",
+            "shortDescriptionList": [
+              {
+                "meta": "Use MATCHDEAL125",
+                "discountType": "Flat",
+                "operationType": "RESTAURANT"
+              }
+            ],
+            "descriptionList": [
+              {
+                "meta": "Flat ₹125 off on orders above ₹249 | Use code MATCHDEAL125",
+                "discountType": "Flat",
+                "operationType": "RESTAURANT"
+              }
+            ],
+            "subHeader": "",
+            "headerType": 0,
+            "superFreedel": ""
+          },
+          "chain": [
+            
+          ],
+          "feeDetails": {
+            "fees": [
+              {
+                "name": "time",
+                "fee": 0,
+                "message": ""
+              },
+              {
+                "name": "distance",
+                "fee": 5600,
+                "message": ""
+              },
+              {
+                "name": "special",
+                "fee": 0,
+                "message": ""
+              }
+            ],
+            "totalFees": 5600,
+            "message": "",
+            "title": "Delivery Charge",
+            "amount": "5600",
+            "icon": ""
+          },
+          "availability": {
+            "opened": true,
+            "nextOpenMessage": "",
+            "nextCloseMessage": ""
+          },
+          "longDistanceEnabled": 0,
+          "rainMode": "NONE",
+          "thirdPartyAddress": false,
+          "thirdPartyVendor": "",
+          "adTrackingID": "",
+          "badges": {
+            "imageBased": [
+              
+            ],
+            "textBased": [
+              
+            ],
+            "textExtendedBadges": [
+              
+            ]
+          },
+          "lastMileTravelString": "4.6 kms",
+          "hasSurge": false,
+          "sla": {
+            "restaurantId": "73861",
+            "deliveryTime": 31,
+            "minDeliveryTime": 31,
+            "maxDeliveryTime": 31,
+            "lastMileTravel": 4.699999809265137,
+            "lastMileDistance": 0,
+            "serviceability": "SERVICEABLE",
+            "rainMode": "NONE",
+            "longDistance": "NOT_LONG_DISTANCE",
+            "preferentialService": false,
+            "iconType": "EMPTY"
+          },
+          "promoted": false,
+          "avgRating": "3.7",
+          "totalRatings": 1000,
+          "new": false
+        },
+        "subtype": "basic"
+      },
+       {
+        "type": "restaurant",
+        "data": {
+          "type": "F",
+          "id": "446976",
+          "name": "Cafe Ocean 11",
+          "uuid": "d98b1f76-5443-43c5-a3dc-949e87652374",
+          "city": "6",
+          "area": "Karve Nagar",
+          "totalRatingsString": "100+ ratings",
+          "cloudinaryImageId": "da0bu5kihug7cmirsnfs",
+          "cuisines": [
+            "Continental",
+            "Italian",
+            "Beverages"
+          ],
+          "tags": [
+            
+          ],
+          "costForTwo": 25000,
+          "costForTwoString": "₹250 FOR TWO",
+          "deliveryTime": 33,
+          "minDeliveryTime": 33,
+          "maxDeliveryTime": 33,
+          "slaString": "33 MINS",
+          "lastMileTravel": 4.699999809265137,
+          "slugs": {
+            "restaurant": "cafe-ocean-11-kothrud-kothrud",
+            "city": "pune"
+          },
+          "cityState": "6",
+          "address": "Shop no 11,12, Continental Chambers, joshi Railway Museum Lane,nr by Pragati industrial estate kothrud, pune 411030",
+          "locality": "Nirzar Road",
+          "parentId": 268941,
+          "unserviceable": false,
+          "veg": false,
+          "select": false,
+          "favorite": false,
+          "tradeCampaignHeaders": [
+            
+          ],
+          "aggregatedDiscountInfo": {
+            "header": "Flat ₹125 off",
+            "shortDescriptionList": [
+              {
+                "meta": "Flat ₹125 off on orders above ₹249",
+                "discountType": "Flat",
+                "operationType": "RESTAURANT"
+              }
+            ],
+            "descriptionList": [
+              {
+                "meta": "Flat ₹125 off on orders above ₹249 | Use code MATCHDEAL125",
+                "discountType": "Flat",
+                "operationType": "RESTAURANT"
+              }
+            ],
+            "subHeader": "",
+            "headerType": 0,
+            "superFreedel": ""
+          },
+          "aggregatedDiscountInfoV2": {
+            "header": "₹125 OFF",
+            "shortDescriptionList": [
+              {
+                "meta": "Use MATCHDEAL125",
+                "discountType": "Flat",
+                "operationType": "RESTAURANT"
+              }
+            ],
+            "descriptionList": [
+              {
+                "meta": "Flat ₹125 off on orders above ₹249 | Use code MATCHDEAL125",
+                "discountType": "Flat",
+                "operationType": "RESTAURANT"
+              }
+            ],
+            "subHeader": "",
+            "headerType": 0,
+            "superFreedel": ""
+          },
+          "chain": [
+            
+          ],
+          "feeDetails": {
+            "fees": [
+              {
+                "name": "time",
+                "fee": 0,
+                "message": ""
+              },
+              {
+                "name": "distance",
+                "fee": 5600,
+                "message": ""
+              },
+              {
+                "name": "special",
+                "fee": 0,
+                "message": ""
+              }
+            ],
+            "totalFees": 5600,
+            "message": "",
+            "title": "Delivery Charge",
+            "amount": "5600",
+            "icon": ""
+          },
+          "availability": {
+            "opened": true,
+            "nextOpenMessage": "",
+            "nextCloseMessage": ""
+          },
+          "longDistanceEnabled": 0,
+          "rainMode": "NONE",
+          "thirdPartyAddress": false,
+          "thirdPartyVendor": "",
+          "adTrackingID": "",
+          "badges": {
+            "imageBased": [
+              
+            ],
+            "textBased": [
+              
+            ],
+            "textExtendedBadges": [
+              
+            ]
+          },
+          "lastMileTravelString": "4.6 kms",
+          "hasSurge": false,
+          "sla": {
+            "restaurantId": "446976",
+            "deliveryTime": 33,
+            "minDeliveryTime": 33,
+            "maxDeliveryTime": 33,
+            "lastMileTravel": 4.699999809265137,
+            "lastMileDistance": 0,
+            "serviceability": "SERVICEABLE",
+            "rainMode": "NONE",
+            "longDistance": "NOT_LONG_DISTANCE",
+            "preferentialService": false,
+            "iconType": "EMPTY"
+          },
+          "promoted": false,
+          "avgRating": "3.5",
+          "totalRatings": 100,
+          "new": false
+        },
+        "subtype": "basic"
+      },
+      {
+        "type": "restaurant",
+        "data": {
+          "type": "F",
+          "id": "258140",
+          "name": "Kaati Zone Rolls & Wraps",
+          "uuid": "d60cf5ca-9d84-411f-a89b-58891ba8b8d1",
+          "city": "6",
+          "area": "Kothrud",
+          "totalRatingsString": "500+ ratings",
+          "cloudinaryImageId": "lqu1yhlxougwpqbslmfe",
+          "cuisines": [
+            "Fast Food",
+            "Bengali",
+            "Beverages",
+            "Desserts"
+          ],
+          "tags": [
+            
+          ],
+          "costForTwo": 15000,
+          "costForTwoString": "₹150 FOR TWO",
+          "deliveryTime": 30,
+          "minDeliveryTime": 30,
+          "maxDeliveryTime": 30,
+          "slaString": "30 MINS",
+          "lastMileTravel": 5,
+          "slugs": {
+            "restaurant": "kaatizone-rolls-&-wraps-kothrud-kothrud",
+            "city": "pune"
+          },
+          "cityState": "6",
+          "address": "Kouzina Food Tech Private Limited, Flat no 3 s.no 1/3+4 borse blog NR Karve Road near karve statue khothrud , Karve Road,Pune,Maharashtra, 411038",
+          "locality": "Karve Road",
+          "parentId": 248306,
+          "unserviceable": false,
+          "veg": false,
+          "select": false,
+          "favorite": false,
+          "tradeCampaignHeaders": [
+            
+          ],
+          "aggregatedDiscountInfo": {
+            "header": "40% off",
+            "shortDescriptionList": [
+              {
+                "meta": "40% off | Use TRYNEW",
+                "discountType": "Percentage",
+                "operationType": "RESTAURANT"
+              }
+            ],
+            "descriptionList": [
+              {
+                "meta": "40% off up to ₹80 | Use code TRYNEW",
+                "discountType": "Percentage",
+                "operationType": "RESTAURANT"
+              }
+            ],
+            "subHeader": "",
+            "headerType": 0,
+            "superFreedel": ""
+          },
+          "aggregatedDiscountInfoV2": {
+            "header": "40% OFF",
+            "shortDescriptionList": [
+              {
+                "meta": "Use TRYNEW",
+                "discountType": "Percentage",
+                "operationType": "RESTAURANT"
+              }
+            ],
+            "descriptionList": [
+              {
+                "meta": "40% off up to ₹80 | Use code TRYNEW",
+                "discountType": "Percentage",
+                "operationType": "RESTAURANT"
+              }
+            ],
+            "subHeader": "",
+            "headerType": 0,
+            "superFreedel": ""
+          },
+          "chain": [
+            
+          ],
+          "feeDetails": {
+            "fees": [
+              {
+                "name": "time",
+                "fee": 0,
+                "message": ""
+              },
+              {
+                "name": "distance",
+                "fee": 6600,
+                "message": ""
+              },
+              {
+                "name": "special",
+                "fee": 0,
+                "message": ""
+              }
+            ],
+            "totalFees": 6600,
+            "message": "",
+            "title": "Delivery Charge",
+            "amount": "6600",
+            "icon": ""
+          },
+          "availability": {
+            "opened": true,
+            "nextOpenMessage": "",
+            "nextCloseMessage": ""
+          },
+          "longDistanceEnabled": 0,
+          "rainMode": "NONE",
+          "thirdPartyAddress": false,
+          "thirdPartyVendor": "",
+          "adTrackingID": "",
+          "badges": {
+            "imageBased": [
+              
+            ],
+            "textBased": [
+              
+            ],
+            "textExtendedBadges": [
+              
+            ]
+          },
+          "lastMileTravelString": "5 kms",
+          "hasSurge": false,
+          "sla": {
+            "restaurantId": "258140",
+            "deliveryTime": 30,
+            "minDeliveryTime": 30,
+            "maxDeliveryTime": 30,
+            "lastMileTravel": 5,
+            "lastMileDistance": 0,
+            "serviceability": "SERVICEABLE",
+            "rainMode": "NONE",
+            "longDistance": "NOT_LONG_DISTANCE",
+            "preferentialService": false,
+            "iconType": "EMPTY"
+          },
+          "promoted": false,
+          "avgRating": "3.6",
+          "totalRatings": 500,
+          "new": false
+        },
+        "subtype": "basic"
+      },
+      {
+        "type": "restaurant",
+        "data": {
+          "type": "F",
+          "id": "222474",
+          "name": "Cafe Weekend",
+          "uuid": "d9de4121-8c2d-4c71-b41d-96c4cb7a839f",
+          "city": "6",
+          "area": "Kothrud",
+          "totalRatingsString": "Too Few Ratings",
+          "cloudinaryImageId": "fjtomy6uwemphodafck2",
+          "cuisines": [
+            "Indian"
+          ],
+          "tags": [
+            
+          ],
+          "costForTwo": 25000,
+          "costForTwoString": "₹250 FOR TWO",
+          "deliveryTime": 35,
+          "minDeliveryTime": 35,
+          "maxDeliveryTime": 35,
+          "slaString": "35 MINS",
+          "lastMileTravel": 4.699999809265137,
+          "slugs": {
+            "restaurant": "cafe-weekend-kothrud-kothrud",
+            "city": "pune"
+          },
+          "cityState": "6",
+          "address": "Choice Group, Ground Floor, Karishma Chowk, Kothrud, Pune",
+          "locality": "Kai Pu Bha Bhave Marge",
+          "parentId": 54444,
+          "unserviceable": false,
+          "veg": false,
+          "select": false,
+          "favorite": false,
+          "tradeCampaignHeaders": [
+            
+          ],
+          "aggregatedDiscountInfo": {
+            "header": "40% off",
+            "shortDescriptionList": [
+              {
+                "meta": "40% off | Use TRYNEW",
+                "discountType": "Percentage",
+                "operationType": "RESTAURANT"
+              }
+            ],
+            "descriptionList": [
+              {
+                "meta": "40% off up to ₹80 | Use code TRYNEW",
+                "discountType": "Percentage",
+                "operationType": "RESTAURANT"
+              }
+            ],
+            "subHeader": "",
+            "headerType": 0,
+            "superFreedel": ""
+          },
+          "aggregatedDiscountInfoV2": {
+            "header": "40% OFF",
+            "shortDescriptionList": [
+              {
+                "meta": "Use TRYNEW",
+                "discountType": "Percentage",
+                "operationType": "RESTAURANT"
+              }
+            ],
+            "descriptionList": [
+              {
+                "meta": "40% off up to ₹80 | Use code TRYNEW",
+                "discountType": "Percentage",
+                "operationType": "RESTAURANT"
+              }
+            ],
+            "subHeader": "",
+            "headerType": 0,
+            "superFreedel": ""
+          },
+          "chain": [
+            
+          ],
+          "feeDetails": {
+            "fees": [
+              {
+                "name": "time",
+                "fee": 0,
+                "message": ""
+              },
+              {
+                "name": "distance",
+                "fee": 5600,
+                "message": ""
+              },
+              {
+                "name": "special",
+                "fee": 0,
+                "message": ""
+              }
+            ],
+            "totalFees": 5600,
+            "message": "",
+            "title": "Delivery Charge",
+            "amount": "5600",
+            "icon": ""
+          },
+          "availability": {
+            "opened": true,
+            "nextOpenMessage": "",
+            "nextCloseMessage": ""
+          },
+          "longDistanceEnabled": 0,
+          "rainMode": "NONE",
+          "thirdPartyAddress": false,
+          "thirdPartyVendor": "",
+          "adTrackingID": "",
+          "badges": {
+            "imageBased": [
+              
+            ],
+            "textBased": [
+              
+            ],
+            "textExtendedBadges": [
+              
+            ]
+          },
+          "lastMileTravelString": "4.6 kms",
+          "hasSurge": false,
+          "sla": {
+            "restaurantId": "222474",
+            "deliveryTime": 35,
+            "minDeliveryTime": 35,
+            "maxDeliveryTime": 35,
+            "lastMileTravel": 4.699999809265137,
+            "lastMileDistance": 0,
+            "serviceability": "SERVICEABLE",
+            "rainMode": "NONE",
+            "longDistance": "NOT_LONG_DISTANCE",
+            "preferentialService": false,
+            "iconType": "EMPTY"
+          },
+          "promoted": false,
+          "avgRating": "--",
+          "totalRatings": 0,
+          "new": false
+        },
+        "subtype": "basic"
+      },
+      
+      {
+        "type": "restaurant",
+        "data": {
+          "type": "F",
+          "id": "447202",
+          "name": "Cafe Tom And Jerry",
+          "uuid": "96adea0f-bc92-4409-b87e-a56d83204415",
+          "city": "6",
+          "area": "Kothrud",
+          "totalRatingsString": "50+ ratings",
+          "cloudinaryImageId": "kpgbl2ej8cawonxbzinh",
+          "cuisines": [
+            "Italian",
+            "Continental",
+            "Beverages"
+          ],
+          "tags": [
+            
+          ],
+          "costForTwo": 30000,
+          "costForTwoString": "₹300 FOR TWO",
+          "deliveryTime": 32,
+          "minDeliveryTime": 32,
+          "maxDeliveryTime": 32,
+          "slaString": "32 MINS",
+          "lastMileTravel": 4.699999809265137,
+          "slugs": {
+            "restaurant": "cafe-tom-and-jerry-kothrud-kothrud",
+            "city": "pune"
+          },
+          "cityState": "6",
+          "address": "Shop no 11,12, Continental Chambers, joshi Railway Museum Lane,nr by Pragati industrial estate kothrud, pune 411030",
+          "locality": "Nirzar Road",
+          "parentId": 269170,
+          "unserviceable": false,
+          "veg": false,
+          "select": false,
+          "favorite": false,
+          "tradeCampaignHeaders": [
+            
+          ],
+          "aggregatedDiscountInfo": {
+            "header": "Flat ₹125 off",
+            "shortDescriptionList": [
+              {
+                "meta": "Flat ₹125 off on orders above ₹249",
+                "discountType": "Flat",
+                "operationType": "RESTAURANT"
+              }
+            ],
+            "descriptionList": [
+              {
+                "meta": "Flat ₹125 off on orders above ₹249 | Use code MATCHDEAL125",
+                "discountType": "Flat",
+                "operationType": "RESTAURANT"
+              }
+            ],
+            "subHeader": "",
+            "headerType": 0,
+            "superFreedel": ""
+          },
+          "aggregatedDiscountInfoV2": {
+            "header": "₹125 OFF",
+            "shortDescriptionList": [
+              {
+                "meta": "Use MATCHDEAL125",
+                "discountType": "Flat",
+                "operationType": "RESTAURANT"
+              }
+            ],
+            "descriptionList": [
+              {
+                "meta": "Flat ₹125 off on orders above ₹249 | Use code MATCHDEAL125",
+                "discountType": "Flat",
+                "operationType": "RESTAURANT"
+              }
+            ],
+            "subHeader": "",
+            "headerType": 0,
+            "superFreedel": ""
+          },
+          "chain": [
+            
+          ],
+          "feeDetails": {
+            "fees": [
+              {
+                "name": "distance",
+                "fee": 5600,
+                "message": ""
+              },
+              {
+                "name": "time",
+                "fee": 0,
+                "message": ""
+              },
+              {
+                "name": "special",
+                "fee": 0,
+                "message": ""
+              }
+            ],
+            "totalFees": 5600,
+            "message": "",
+            "title": "Delivery Charge",
+            "amount": "5600",
+            "icon": ""
+          },
+          "availability": {
+            "opened": true,
+            "nextOpenMessage": "",
+            "nextCloseMessage": ""
+          },
+          "longDistanceEnabled": 0,
+          "rainMode": "NONE",
+          "thirdPartyAddress": false,
+          "thirdPartyVendor": "",
+          "adTrackingID": "",
+          "badges": {
+            "imageBased": [
+              
+            ],
+            "textBased": [
+              
+            ],
+            "textExtendedBadges": [
+              
+            ]
+          },
+          "lastMileTravelString": "4.6 kms",
+          "hasSurge": false,
+          "sla": {
+            "restaurantId": "447202",
+            "deliveryTime": 32,
+            "minDeliveryTime": 32,
+            "maxDeliveryTime": 32,
+            "lastMileTravel": 4.699999809265137,
+            "lastMileDistance": 0,
+            "serviceability": "SERVICEABLE",
+            "rainMode": "NONE",
+            "longDistance": "NOT_LONG_DISTANCE",
+            "preferentialService": false,
+            "iconType": "EMPTY"
+          },
+          "promoted": false,
+          "avgRating": "3.5",
+          "totalRatings": 50,
+          "new": false
+        },
+        "subtype": "basic"
+      },
+      {
+        "type": "restaurant",
+        "data": {
+          "type": "F",
+          "id": "563726",
+          "name": "New Drank And Dragon",
+          "uuid": "818a0d94-9fe5-4f50-a25d-53773153f893",
+          "city": "6",
+          "area": "Kothrud",
+          "totalRatingsString": "Too Few Ratings",
+          "cloudinaryImageId": "ebfacognohgiflvf3apq",
+          "cuisines": [
+            "Chinese"
+          ],
+          "tags": [
+            
+          ],
+          "costForTwo": 30000,
+          "costForTwoString": "₹300 FOR TWO",
+          "deliveryTime": 37,
+          "minDeliveryTime": 37,
+          "maxDeliveryTime": 37,
+          "slaString": "37 MINS",
+          "lastMileTravel": 5,
+          "slugs": {
+            "restaurant": "new-drank-and-dragon-kothrud-kothrud",
+            "city": "pune"
+          },
+          "cityState": "6",
+          "address": "SHOP NO 11,12, CONTINENTAL CHAMBERS, JOSHI RAILWAY MUSEUM, NEAR BY PRAGATI INDUSTRIAL ESTATE, KOTHRUD 411038",
+          "locality": "Nirzar Road",
+          "parentId": 339228,
+          "unserviceable": false,
+          "veg": false,
+          "select": false,
+          "favorite": false,
+          "tradeCampaignHeaders": [
+            
+          ],
+          "aggregatedDiscountInfo": {
+            "header": "Flat ₹125 off",
+            "shortDescriptionList": [
+              {
+                "meta": "Flat ₹125 off on orders above ₹249",
+                "discountType": "Flat",
+                "operationType": "RESTAURANT"
+              }
+            ],
+            "descriptionList": [
+              {
+                "meta": "Flat ₹125 off on orders above ₹249 | Use code MATCHDEAL125",
+                "discountType": "Flat",
+                "operationType": "RESTAURANT"
+              }
+            ],
+            "subHeader": "",
+            "headerType": 0,
+            "superFreedel": ""
+          },
+          "aggregatedDiscountInfoV2": {
+            "header": "₹125 OFF",
+            "shortDescriptionList": [
+              {
+                "meta": "Use MATCHDEAL125",
+                "discountType": "Flat",
+                "operationType": "RESTAURANT"
+              }
+            ],
+            "descriptionList": [
+              {
+                "meta": "Flat ₹125 off on orders above ₹249 | Use code MATCHDEAL125",
+                "discountType": "Flat",
+                "operationType": "RESTAURANT"
+              }
+            ],
+            "subHeader": "",
+            "headerType": 0,
+            "superFreedel": ""
+          },
+          "chain": [
+            
+          ],
+          "feeDetails": {
+            "fees": [
+              {
+                "name": "time",
+                "fee": 0,
+                "message": ""
+              },
+              {
+                "name": "distance",
+                "fee": 6600,
+                "message": ""
+              },
+              {
+                "name": "special",
+                "fee": 0,
+                "message": ""
+              }
+            ],
+            "totalFees": 6600,
+            "message": "",
+            "title": "Delivery Charge",
+            "amount": "6600",
+            "icon": ""
+          },
+          "availability": {
+            "opened": true,
+            "nextOpenMessage": "",
+            "nextCloseMessage": ""
+          },
+          "longDistanceEnabled": 0,
+          "rainMode": "NONE",
+          "thirdPartyAddress": false,
+          "thirdPartyVendor": "",
+          "adTrackingID": "",
+          "badges": {
+            "imageBased": [
+              
+            ],
+            "textBased": [
+              
+            ],
+            "textExtendedBadges": [
+              
+            ]
+          },
+          "lastMileTravelString": "5 kms",
+          "hasSurge": false,
+          "sla": {
+            "restaurantId": "563726",
+            "deliveryTime": 37,
+            "minDeliveryTime": 37,
+            "maxDeliveryTime": 37,
+            "lastMileTravel": 5,
+            "lastMileDistance": 0,
+            "serviceability": "SERVICEABLE",
+            "rainMode": "NONE",
+            "longDistance": "NOT_LONG_DISTANCE",
+            "preferentialService": false,
+            "iconType": "EMPTY"
+          },
+          "promoted": false,
+          "avgRating": "--",
+          "totalRatings": 0,
+          "new": false
+        },
+        "subtype": "basic"
+      },
+      {
+        "type": "restaurant",
+        "data": {
+          "type": "F",
+          "id": "258140",
+          "name": "Kaati Zone Rolls & Wraps",
+          "uuid": "d60cf5ca-9d84-411f-a89b-58891ba8b8d1",
+          "city": "6",
+          "area": "Kothrud",
+          "totalRatingsString": "500+ ratings",
+          "cloudinaryImageId": "lqu1yhlxougwpqbslmfe",
+          "cuisines": [
+            "Fast Food",
+            "Bengali",
+            "Beverages",
+            "Desserts"
+          ],
+          "tags": [
+            
+          ],
+          "costForTwo": 15000,
+          "costForTwoString": "₹150 FOR TWO",
+          "deliveryTime": 30,
+          "minDeliveryTime": 30,
+          "maxDeliveryTime": 30,
+          "slaString": "30 MINS",
+          "lastMileTravel": 5,
+          "slugs": {
+            "restaurant": "kaatizone-rolls-&-wraps-kothrud-kothrud",
+            "city": "pune"
+          },
+          "cityState": "6",
+          "address": "Kouzina Food Tech Private Limited, Flat no 3 s.no 1/3+4 borse blog NR Karve Road near karve statue khothrud , Karve Road,Pune,Maharashtra, 411038",
+          "locality": "Karve Road",
+          "parentId": 248306,
+          "unserviceable": false,
+          "veg": false,
+          "select": false,
+          "favorite": false,
+          "tradeCampaignHeaders": [
+            
+          ],
+          "aggregatedDiscountInfo": {
+            "header": "40% off",
+            "shortDescriptionList": [
+              {
+                "meta": "40% off | Use TRYNEW",
+                "discountType": "Percentage",
+                "operationType": "RESTAURANT"
+              }
+            ],
+            "descriptionList": [
+              {
+                "meta": "40% off up to ₹80 | Use code TRYNEW",
+                "discountType": "Percentage",
+                "operationType": "RESTAURANT"
+              }
+            ],
+            "subHeader": "",
+            "headerType": 0,
+            "superFreedel": ""
+          },
+          "aggregatedDiscountInfoV2": {
+            "header": "40% OFF",
+            "shortDescriptionList": [
+              {
+                "meta": "Use TRYNEW",
+                "discountType": "Percentage",
+                "operationType": "RESTAURANT"
+              }
+            ],
+            "descriptionList": [
+              {
+                "meta": "40% off up to ₹80 | Use code TRYNEW",
+                "discountType": "Percentage",
+                "operationType": "RESTAURANT"
+              }
+            ],
+            "subHeader": "",
+            "headerType": 0,
+            "superFreedel": ""
+          },
+          "chain": [
+            
+          ],
+          "feeDetails": {
+            "fees": [
+              {
+                "name": "time",
+                "fee": 0,
+                "message": ""
+              },
+              {
+                "name": "distance",
+                "fee": 6600,
+                "message": ""
+              },
+              {
+                "name": "special",
+                "fee": 0,
+                "message": ""
+              }
+            ],
+            "totalFees": 6600,
+            "message": "",
+            "title": "Delivery Charge",
+            "amount": "6600",
+            "icon": ""
+          },
+          "availability": {
+            "opened": true,
+            "nextOpenMessage": "",
+            "nextCloseMessage": ""
+          },
+          "longDistanceEnabled": 0,
+          "rainMode": "NONE",
+          "thirdPartyAddress": false,
+          "thirdPartyVendor": "",
+          "adTrackingID": "",
+          "badges": {
+            "imageBased": [
+              
+            ],
+            "textBased": [
+              
+            ],
+            "textExtendedBadges": [
+              
+            ]
+          },
+          "lastMileTravelString": "5 kms",
+          "hasSurge": false,
+          "sla": {
+            "restaurantId": "258140",
+            "deliveryTime": 30,
+            "minDeliveryTime": 30,
+            "maxDeliveryTime": 30,
+            "lastMileTravel": 5,
+            "lastMileDistance": 0,
+            "serviceability": "SERVICEABLE",
+            "rainMode": "NONE",
+            "longDistance": "NOT_LONG_DISTANCE",
+            "preferentialService": false,
+            "iconType": "EMPTY"
+          },
+          "promoted": false,
+          "avgRating": "3.6",
+          "totalRatings": 500,
+          "new": false
+        },
+        "subtype": "basic"
+      },
+      
+      {
+        "type": "restaurant",
+        "data": {
+          "type": "F",
+          "id": "504385",
+          "name": "MH Special Veg and Non Veg",
+          "uuid": "979eaa37-0176-4351-8426-0e4ad7c4a560",
+          "city": "6",
+          "area": "Kothrud",
+          "totalRatingsString": "50+ ratings",
+          "cloudinaryImageId": "zrvdl2hzmztpiwkw9fed",
+          "cuisines": [
+            "Biryani",
+            "Kebabs",
+            "Mughlai",
+            "North Indian"
+          ],
+          "tags": [
+            
+          ],
+          "costForTwo": 35000,
+          "costForTwoString": "₹350 FOR TWO",
+          "deliveryTime": 36,
+          "minDeliveryTime": 36,
+          "maxDeliveryTime": 36,
+          "slaString": "36 MINS",
+          "lastMileTravel": 5,
+          "slugs": {
+            "restaurant": "mh-special-veg-and-non-veg-kothrud-kothrud",
+            "city": "pune"
+          },
+          "cityState": "6",
+          "address": "SHOP NO 11,12, CONTINENTAL CHAMBERS, JOSHI RAILWAY MUSEUM, NEAR BY PRAGATI INDUSTRIAL ESTATE, KOTHRUD 411038",
+          "locality": "Law College Road",
+          "parentId": 302075,
+          "unserviceable": false,
+          "veg": false,
+          "select": false,
+          "favorite": false,
+          "tradeCampaignHeaders": [
+            
+          ],
+          "aggregatedDiscountInfo": {
+            "header": "40% off",
+            "shortDescriptionList": [
+              {
+                "meta": "40% off | Use TRYNEW",
+                "discountType": "Percentage",
+                "operationType": "RESTAURANT"
+              }
+            ],
+            "descriptionList": [
+              {
+                "meta": "40% off up to ₹80 | Use code TRYNEW",
+                "discountType": "Percentage",
+                "operationType": "RESTAURANT"
+              }
+            ],
+            "subHeader": "",
+            "headerType": 0,
+            "superFreedel": ""
+          },
+          "aggregatedDiscountInfoV2": {
+            "header": "40% OFF",
+            "shortDescriptionList": [
+              {
+                "meta": "Use TRYNEW",
+                "discountType": "Percentage",
+                "operationType": "RESTAURANT"
+              }
+            ],
+            "descriptionList": [
+              {
+                "meta": "40% off up to ₹80 | Use code TRYNEW",
+                "discountType": "Percentage",
+                "operationType": "RESTAURANT"
+              }
+            ],
+            "subHeader": "",
+            "headerType": 0,
+            "superFreedel": ""
+          },
+          "chain": [
+            
+          ],
+          "feeDetails": {
+            "fees": [
+              {
+                "name": "time",
+                "fee": 0,
+                "message": ""
+              },
+              {
+                "name": "distance",
+                "fee": 6600,
+                "message": ""
+              },
+              {
+                "name": "special",
+                "fee": 0,
+                "message": ""
+              }
+            ],
+            "totalFees": 6600,
+            "message": "",
+            "title": "Delivery Charge",
+            "amount": "6600",
+            "icon": ""
+          },
+          "availability": {
+            "opened": true,
+            "nextOpenMessage": "",
+            "nextCloseMessage": ""
+          },
+          "longDistanceEnabled": 0,
+          "rainMode": "NONE",
+          "thirdPartyAddress": false,
+          "thirdPartyVendor": "",
+          "adTrackingID": "",
+          "badges": {
+            "imageBased": [
+              
+            ],
+            "textBased": [
+              
+            ],
+            "textExtendedBadges": [
+              
+            ]
+          },
+          "lastMileTravelString": "5 kms",
+          "hasSurge": false,
+          "sla": {
+            "restaurantId": "504385",
+            "deliveryTime": 36,
+            "minDeliveryTime": 36,
+            "maxDeliveryTime": 36,
+            "lastMileTravel": 5,
+            "lastMileDistance": 0,
+            "serviceability": "SERVICEABLE",
+            "rainMode": "NONE",
+            "longDistance": "NOT_LONG_DISTANCE",
+            "preferentialService": false,
+            "iconType": "EMPTY"
+          },
+          "promoted": false,
+          "avgRating": "3.5",
+          "totalRatings": 50,
+          "new": false
+        },
+        "subtype": "basic"
+      },  
+  {
+    "type": "restaurant",
+    "data": {
+      "type": "F",
+      "id": "14548",
+      "name": "Burger King",
+      "uuid": "e9ec48cc-4b02-483b-b0ca-8b3b3059dfff",
+      "city": "6",
+      "area": "Kothrud",
+      "totalRatingsString": "10000+ ratings",
+      "cloudinaryImageId": "28fb13049b4e55297bb3f703cde63c35",
+      "cuisines": [
+        "Burgers",
+        "American"
+      ],
+      "tags": [
+        
+      ],
+      "costForTwo": 35000,
+      "costForTwoString": "₹350 FOR TWO",
+      "deliveryTime": 33,
+      "minDeliveryTime": 33,
+      "maxDeliveryTime": 33,
+      "slaString": "33 MINS",
+      "lastMileTravel": 5.5,
+      "slugs": {
+        "restaurant": "burger-king-kothrud-kothrud-2",
+        "city": "pune"
+      },
+      "cityState": "6",
+      "address": "Burger King Indian Pvt Ltd, Shop# B&E, Stilt Floor, Shankar Bhavan, Near Raymond Shop Paud Road, Kothrud, Pune- 411038",
+      "locality": "Paud Road",
+      "parentId": 166,
+      "unserviceable": false,
+      "veg": false,
+      "select": false,
+      "favorite": false,
+      "tradeCampaignHeaders": [
+        
+      ],
+      "aggregatedDiscountInfo": {
+        "header": "60% off",
+        "shortDescriptionList": [
+          {
+            "meta": "60% off | Use STEALDEAL",
+            "discountType": "Percentage",
+            "operationType": "RESTAURANT"
+          }
+        ],
+        "descriptionList": [
+          {
+            "meta": "60% off up to ₹120 | Use code STEALDEAL",
+            "discountType": "Percentage",
+            "operationType": "RESTAURANT"
+          }
+        ],
+        "subHeader": "",
+        "headerType": 0,
+        "superFreedel": ""
+      },
+      "aggregatedDiscountInfoV2": {
+        "header": "60% OFF",
+        "shortDescriptionList": [
+          {
+            "meta": "Use STEALDEAL",
+            "discountType": "Percentage",
+            "operationType": "RESTAURANT"
+          }
+        ],
+        "descriptionList": [
+          {
+            "meta": "60% off up to ₹120 | Use code STEALDEAL",
+            "discountType": "Percentage",
+            "operationType": "RESTAURANT"
+          }
+        ],
+        "subHeader": "",
+        "headerType": 0,
+        "superFreedel": ""
+      },
+      "chain": [
+        
+      ],
+      "feeDetails": {
+        "fees": [
+          {
+            "name": "distance",
+            "fee": 6600,
+            "message": ""
+          },
+          {
+            "name": "time",
+            "fee": 0,
+            "message": ""
+          },
+          {
+            "name": "special",
+            "fee": 0,
+            "message": ""
+          }
+        ],
+        "totalFees": 6600,
+        "message": "",
+        "title": "Delivery Charge",
+        "amount": "6600",
+        "icon": ""
+      },
+      "availability": {
+        "opened": true,
+        "nextOpenMessage": "",
+        "nextCloseMessage": "Closes soon"
+      },
+      "longDistanceEnabled": 0,
+      "rainMode": "NONE",
+      "thirdPartyAddress": false,
+      "thirdPartyVendor": "",
+      "adTrackingID": "",
+      "badges": {
+        "imageBased": [
+          
+        ],
+        "textBased": [
+          
+        ],
+        "textExtendedBadges": [
+          
+        ]
+      },
+      "lastMileTravelString": "5.5 kms",
+      "hasSurge": false,
+      "sla": {
+        "restaurantId": "14548",
+        "deliveryTime": 33,
+        "minDeliveryTime": 33,
+        "maxDeliveryTime": 33,
+        "lastMileTravel": 5.5,
+        "lastMileDistance": 0,
+        "serviceability": "SERVICEABLE",
+        "rainMode": "NONE",
+        "longDistance": "NOT_LONG_DISTANCE",
+        "preferentialService": false,
+        "iconType": "EMPTY"
+      },
+      "promoted": false,
+      "avgRating": "4.1",
+      "totalRatings": 10000,
+      "new": false
+    },
+    "subtype": "basic"
+  },
+  {
+    "type": "restaurant",
+    "data": {
+      "type": "F",
+      "id": "232123",
+      "name": "AK Biryani House",
+      "uuid": "5d35617b-3650-40e6-8576-e058e3c61b5d",
+      "city": "6",
+      "area": "Camp Area",
+      "totalRatingsString": "100+ ratings",
+      "cloudinaryImageId": "omoss95krjx0b13ur6br",
+      "cuisines": [
+        "Biryani",
+        "Chinese",
+        "North Indian",
+        "Mughlai",
+        "Beverages"
+      ],
+      "tags": [
+        
+      ],
+      "costForTwo": 20000,
+      "costForTwoString": "₹200 FOR TWO",
+      "deliveryTime": 27,
+      "minDeliveryTime": 27,
+      "maxDeliveryTime": 27,
+      "slaString": "27 MINS",
+      "lastMileTravel": 3,
+      "slugs": {
+        "restaurant": "ak-biryani-house-camp-camp",
+        "city": "pune"
+      },
+      "cityState": "6",
+      "address": "Gate 1, Azam Campus, Near Poona College, Camp Area, Pune",
+      "locality": "Azam Campus",
+      "parentId": 21891,
+      "unserviceable": false,
+      "veg": false,
+      "select": false,
+      "favorite": false,
+      "tradeCampaignHeaders": [
+        
+      ],
+      "aggregatedDiscountInfo": {
+        "header": "20% off",
+        "shortDescriptionList": [
+          {
+            "meta": "20% off | Use TRYNEW",
+            "discountType": "Percentage",
+            "operationType": "RESTAURANT"
+          }
+        ],
+        "descriptionList": [
+          {
+            "meta": "20% off up to ₹50 | Use code TRYNEW",
+            "discountType": "Percentage",
+            "operationType": "RESTAURANT"
+          }
+        ],
+        "subHeader": "",
+        "headerType": 0,
+        "superFreedel": ""
+      },
+      "aggregatedDiscountInfoV2": {
+        "header": "20% OFF",
+        "shortDescriptionList": [
+          {
+            "meta": "Use TRYNEW",
+            "discountType": "Percentage",
+            "operationType": "RESTAURANT"
+          }
+        ],
+        "descriptionList": [
+          {
+            "meta": "20% off up to ₹50 | Use code TRYNEW",
+            "discountType": "Percentage",
+            "operationType": "RESTAURANT"
+          }
+        ],
+        "subHeader": "",
+        "headerType": 0,
+        "superFreedel": ""
+      },
+      "chain": [
+        
+      ],
+      "feeDetails": {
+        "fees": [
+          {
+            "name": "time",
+            "fee": 0,
+            "message": ""
+          },
+          {
+            "name": "distance",
+            "fee": 4800,
+            "message": ""
+          },
+          {
+            "name": "special",
+            "fee": 0,
+            "message": ""
+          }
+        ],
+        "totalFees": 4800,
+        "message": "",
+        "title": "Delivery Charge",
+        "amount": "4800",
+        "icon": ""
+      },
+      "availability": {
+        "opened": true,
+        "nextOpenMessage": "",
+        "nextCloseMessage": ""
+      },
+      "longDistanceEnabled": 0,
+      "rainMode": "NONE",
+      "thirdPartyAddress": false,
+      "thirdPartyVendor": "",
+      "adTrackingID": "",
+      "badges": {
+        "imageBased": [
+          
+        ],
+        "textBased": [
+          
+        ],
+        "textExtendedBadges": [
+          
+        ]
+      },
+      "lastMileTravelString": "3 kms",
+      "hasSurge": false,
+      "sla": {
+        "restaurantId": "232123",
+        "deliveryTime": 27,
+        "minDeliveryTime": 27,
+        "maxDeliveryTime": 27,
+        "lastMileTravel": 3,
+        "lastMileDistance": 0,
+        "serviceability": "SERVICEABLE",
+        "rainMode": "NONE",
+        "longDistance": "NOT_LONG_DISTANCE",
+        "preferentialService": false,
+        "iconType": "EMPTY"
+      },
+      "promoted": false,
+      "avgRating": "3.1",
+      "totalRatings": 100,
+      "new": false
+    },
+    "subtype": "basic"
+  },
+  {
+    "type": "restaurant",
+    "data": {
+      "type": "F",
+      "id": "228089",
+      "name": "Bon Bon Candy Cake Shop",
+      "uuid": "629bb505-5705-446c-802c-2a24abb8c1c1",
+      "city": "6",
+      "area": "Karve Nagar",
+      "totalRatingsString": "50+ ratings",
+      "cloudinaryImageId": "rrvtmyspd5cytio7kkws",
+      "cuisines": [
+        "Bakery"
+      ],
+      "tags": [
+        
+      ],
+      "costForTwo": 15000,
+      "costForTwoString": "₹150 FOR TWO",
+      "deliveryTime": 33,
+      "minDeliveryTime": 33,
+      "maxDeliveryTime": 33,
+      "slaString": "33 MINS",
+      "lastMileTravel": 6.599999904632568,
+      "slugs": {
+        "restaurant": "bon-bon-candy-cake-shop-kothrud-kothrud",
+        "city": "pune"
+      },
+      "cityState": "6",
+      "address": "SHOP NO 2, SR NO 83, LAXMIKANT HOUSING sOCIETY, NEAR HDFC ATM, SHASTRINAGAR KOTHRUD, Karve Road, Pune, Maharashtra -411038",
+      "locality": "Karve Road",
+      "parentId": 11881,
+      "unserviceable": false,
+      "veg": false,
+      "select": false,
+      "favorite": false,
+      "tradeCampaignHeaders": [
+        
+      ],
+      "ribbon": [
+        {
+          "type": "PROMOTED"
+        }
+      ],
+      "chain": [
+        
+      ],
+      "feeDetails": {
+        "fees": [
+          {
+            "name": "time",
+            "fee": 0,
+            "message": ""
+          },
+          {
+            "name": "distance",
+            "fee": 7600,
+            "message": ""
+          },
+          {
+            "name": "special",
+            "fee": 0,
+            "message": ""
+          }
+        ],
+        "totalFees": 7600,
+        "message": "",
+        "title": "Delivery Charge",
+        "amount": "7600",
+        "icon": ""
+      },
+      "availability": {
+        "opened": true,
+        "nextOpenMessage": "",
+        "nextCloseMessage": ""
+      },
+      "longDistanceEnabled": 0,
+      "rainMode": "NONE",
+      "thirdPartyAddress": false,
+      "thirdPartyVendor": "",
+      "adTrackingID": "cid=6473496~p=10~eid=00000187-81c7-e51a-0ff6-08fa00b10a11",
+      "badges": {
+        "imageBased": [
+          
+        ],
+        "textBased": [
+          
+        ],
+        "textExtendedBadges": [
+          
+        ]
+      },
+      "lastMileTravelString": "6.5 kms",
+      "hasSurge": false,
+      "sla": {
+        "restaurantId": "228089",
+        "deliveryTime": 33,
+        "minDeliveryTime": 33,
+        "maxDeliveryTime": 33,
+        "lastMileTravel": 6.599999904632568,
+        "lastMileDistance": 0,
+        "serviceability": "SERVICEABLE",
+        "rainMode": "NONE",
+        "longDistance": "NOT_LONG_DISTANCE",
+        "preferentialService": false,
+        "iconType": "EMPTY"
+      },
+      "promoted": true,
+      "avgRating": "3.5",
+      "totalRatings": 50,
+      "new": false
+    },
+    "subtype": "basic"
+  },
+  {
+    "type": "restaurant",
+    "data": {
+      "type": "F",
+      "id": "228565",
+      "name": "Subhanallah Biryani House",
+      "uuid": "9b603660-cce7-4a92-bac7-4ce30cdbd52a",
+      "city": "6",
+      "area": "Camp Area",
+      "totalRatingsString": "100+ ratings",
+      "cloudinaryImageId": "f2ejyvdnlhprvtqj0zzo",
+      "cuisines": [
+        "Biryani",
+        "Chinese",
+        "North Indian",
+        "Mughlai",
+        "Beverages"
+      ],
+      "tags": [
+        
+      ],
+      "costForTwo": 20000,
+      "costForTwoString": "₹200 FOR TWO",
+      "deliveryTime": 24,
+      "minDeliveryTime": 24,
+      "maxDeliveryTime": 24,
+      "slaString": "24 MINS",
+      "lastMileTravel": 3,
+      "slugs": {
+        "restaurant": "subhanallah-biryani-house-camp-camp",
+        "city": "pune"
+      },
+      "cityState": "6",
+      "address": "Gate 1, Azam Campus, Near Poona College, Camp Area, Pune",
+      "locality": "Azam Campus",
+      "parentId": 196247,
+      "unserviceable": false,
+      "veg": false,
+      "select": false,
+      "favorite": false,
+      "tradeCampaignHeaders": [
+        
+      ],
+      "aggregatedDiscountInfo": {
+        "header": "20% off",
+        "shortDescriptionList": [
+          {
+            "meta": "20% off | Use TRYNEW",
+            "discountType": "Percentage",
+            "operationType": "RESTAURANT"
+          }
+        ],
+        "descriptionList": [
+          {
+            "meta": "20% off up to ₹50 | Use code TRYNEW",
+            "discountType": "Percentage",
+            "operationType": "RESTAURANT"
+          }
+        ],
+        "subHeader": "",
+        "headerType": 0,
+        "superFreedel": ""
+      },
+      "aggregatedDiscountInfoV2": {
+        "header": "20% OFF",
+        "shortDescriptionList": [
+          {
+            "meta": "Use TRYNEW",
+            "discountType": "Percentage",
+            "operationType": "RESTAURANT"
+          }
+        ],
+        "descriptionList": [
+          {
+            "meta": "20% off up to ₹50 | Use code TRYNEW",
+            "discountType": "Percentage",
+            "operationType": "RESTAURANT"
+          }
+        ],
+        "subHeader": "",
+        "headerType": 0,
+        "superFreedel": ""
+      },
+      "chain": [
+        
+      ],
+      "feeDetails": {
+        "fees": [
+          {
+            "name": "time",
+            "fee": 0,
+            "message": ""
+          },
+          {
+            "name": "distance",
+            "fee": 4800,
+            "message": ""
+          },
+          {
+            "name": "special",
+            "fee": 0,
+            "message": ""
+          }
+        ],
+        "totalFees": 4800,
+        "message": "",
+        "title": "Delivery Charge",
+        "amount": "4800",
+        "icon": ""
+      },
+      "availability": {
+        "opened": true,
+        "nextOpenMessage": "",
+        "nextCloseMessage": ""
+      },
+      "longDistanceEnabled": 1,
+      "rainMode": "NONE",
+      "thirdPartyAddress": false,
+      "thirdPartyVendor": "",
+      "adTrackingID": "",
+      "badges": {
+        "imageBased": [
+          
+        ],
+        "textBased": [
+          
+        ],
+        "textExtendedBadges": [
+          
+        ]
+      },
+      "lastMileTravelString": "3 kms",
+      "hasSurge": false,
+      "sla": {
+        "restaurantId": "228565",
+        "deliveryTime": 24,
+        "minDeliveryTime": 24,
+        "maxDeliveryTime": 24,
+        "lastMileTravel": 3,
+        "lastMileDistance": 0,
+        "serviceability": "SERVICEABLE",
+        "rainMode": "NONE",
+        "longDistance": "IT_IS_LONG_DISTANCE",
+        "preferentialService": false,
+        "iconType": "EMPTY"
+      },
+      "promoted": false,
+      "avgRating": "3.4",
+      "totalRatings": 100,
+      "new": false
+    },
+    "subtype": "basic"
+  },
+  {
+    "type": "restaurant",
+    "data": {
+      "type": "F",
+      "id": "511290",
+      "name": "Bismillah Biryani House",
+      "uuid": "14f0c800-9b48-4e99-9832-4d5d56a0fad7",
+      "city": "6",
+      "area": "Camp",
+      "totalRatingsString": "20+ ratings",
+      "cloudinaryImageId": "wlub51pcxlftx14l9ex6",
+      "cuisines": [
+        "Biryani",
+        "Chinese",
+        "Indian",
+        "Snacks"
+      ],
+      "tags": [
+        
+      ],
+      "costForTwo": 30000,
+      "costForTwoString": "₹300 FOR TWO",
+      "deliveryTime": 25,
+      "minDeliveryTime": 25,
+      "maxDeliveryTime": 25,
+      "slaString": "25 MINS",
+      "lastMileTravel": 3,
+      "slugs": {
+        "restaurant": "bismillah-biryani-house-camp-camp",
+        "city": "pune"
+      },
+      "cityState": "6",
+      "address": "2373,New Modikhana,Near L D Bhave Gas Agency,Camp,Pune 411001",
+      "locality": "New Modikhana",
+      "parentId": 47240,
+      "unserviceable": false,
+      "veg": false,
+      "select": false,
+      "favorite": false,
+      "tradeCampaignHeaders": [
+        
+      ],
+      "aggregatedDiscountInfo": {
+        "header": "20% off",
+        "shortDescriptionList": [
+          {
+            "meta": "20% off | Use TRYNEW",
+            "discountType": "Percentage",
+            "operationType": "RESTAURANT"
+          }
+        ],
+        "descriptionList": [
+          {
+            "meta": "20% off up to ₹50 | Use code TRYNEW",
+            "discountType": "Percentage",
+            "operationType": "RESTAURANT"
+          }
+        ],
+        "subHeader": "",
+        "headerType": 0,
+        "superFreedel": ""
+      },
+      "aggregatedDiscountInfoV2": {
+        "header": "20% OFF",
+        "shortDescriptionList": [
+          {
+            "meta": "Use TRYNEW",
+            "discountType": "Percentage",
+            "operationType": "RESTAURANT"
+          }
+        ],
+        "descriptionList": [
+          {
+            "meta": "20% off up to ₹50 | Use code TRYNEW",
+            "discountType": "Percentage",
+            "operationType": "RESTAURANT"
+          }
+        ],
+        "subHeader": "",
+        "headerType": 0,
+        "superFreedel": ""
+      },
+      "chain": [
+        
+      ],
+      "feeDetails": {
+        "fees": [
+          {
+            "name": "time",
+            "fee": 0,
+            "message": ""
+          },
+          {
+            "name": "distance",
+            "fee": 4800,
+            "message": ""
+          },
+          {
+            "name": "special",
+            "fee": 0,
+            "message": ""
+          }
+        ],
+        "totalFees": 4800,
+        "message": "",
+        "title": "Delivery Charge",
+        "amount": "4800",
+        "icon": ""
+      },
+      "availability": {
+        "opened": true,
+        "nextOpenMessage": "",
+        "nextCloseMessage": ""
+      },
+      "longDistanceEnabled": 0,
+      "rainMode": "NONE",
+      "thirdPartyAddress": false,
+      "thirdPartyVendor": "",
+      "adTrackingID": "",
+      "badges": {
+        "imageBased": [
+          
+        ],
+        "textBased": [
+          
+        ],
+        "textExtendedBadges": [
+          
+        ]
+      },
+      "lastMileTravelString": "3 kms",
+      "hasSurge": false,
+      "sla": {
+        "restaurantId": "511290",
+        "deliveryTime": 25,
+        "minDeliveryTime": 25,
+        "maxDeliveryTime": 25,
+        "lastMileTravel": 3,
+        "lastMileDistance": 0,
+        "serviceability": "SERVICEABLE",
+        "rainMode": "NONE",
+        "longDistance": "NOT_LONG_DISTANCE",
+        "preferentialService": false,
+        "iconType": "EMPTY"
+      },
+      "promoted": false,
+      "avgRating": "3.5",
+      "totalRatings": 20,
+      "new": false
+    },
+    "subtype": "basic"
+  },
+  {
+    "type": "restaurant",
+    "data": {
+      "type": "F",
+      "id": "232125",
+      "name": "Labbaik Biryani House",
+      "uuid": "a1290785-7152-4f19-bef9-cfb649a6bfde",
+      "city": "6",
+      "area": "Camp Area",
+      "totalRatingsString": "100+ ratings",
+      "cloudinaryImageId": "upizypworbept3mlfgx8",
+      "cuisines": [
+        "Biryani",
+        "North Indian"
+      ],
+      "tags": [
+        
+      ],
+      "costForTwo": 20000,
+      "costForTwoString": "₹200 FOR TWO",
+      "deliveryTime": 26,
+      "minDeliveryTime": 26,
+      "maxDeliveryTime": 26,
+      "slaString": "26 MINS",
+      "lastMileTravel": 3,
+      "slugs": {
+        "restaurant": "labbaik-biryani-house-camp-camp",
+        "city": "pune"
+      },
+      "cityState": "6",
+      "address": "Gate 1, Azam Campus, Near Poona College, Camp Area, Pune",
+      "locality": "Azam Campus",
+      "parentId": 122728,
+      "unserviceable": false,
+      "veg": false,
+      "select": false,
+      "favorite": false,
+      "tradeCampaignHeaders": [
+        
+      ],
+      "aggregatedDiscountInfo": {
+        "header": "20% off",
+        "shortDescriptionList": [
+          {
+            "meta": "20% off | Use TRYNEW",
+            "discountType": "Percentage",
+            "operationType": "RESTAURANT"
+          }
+        ],
+        "descriptionList": [
+          {
+            "meta": "20% off up to ₹50 | Use code TRYNEW",
+            "discountType": "Percentage",
+            "operationType": "RESTAURANT"
+          }
+        ],
+        "subHeader": "",
+        "headerType": 0,
+        "superFreedel": ""
+      },
+      "aggregatedDiscountInfoV2": {
+        "header": "20% OFF",
+        "shortDescriptionList": [
+          {
+            "meta": "Use TRYNEW",
+            "discountType": "Percentage",
+            "operationType": "RESTAURANT"
+          }
+        ],
+        "descriptionList": [
+          {
+            "meta": "20% off up to ₹50 | Use code TRYNEW",
+            "discountType": "Percentage",
+            "operationType": "RESTAURANT"
+          }
+        ],
+        "subHeader": "",
+        "headerType": 0,
+        "superFreedel": ""
+      },
+      "chain": [
+        
+      ],
+      "feeDetails": {
+        "fees": [
+          {
+            "name": "time",
+            "fee": 0,
+            "message": ""
+          },
+          {
+            "name": "distance",
+            "fee": 4800,
+            "message": ""
+          },
+          {
+            "name": "special",
+            "fee": 0,
+            "message": ""
+          }
+        ],
+        "totalFees": 4800,
+        "message": "",
+        "title": "Delivery Charge",
+        "amount": "4800",
+        "icon": ""
+      },
+      "availability": {
+        "opened": true,
+        "nextOpenMessage": "",
+        "nextCloseMessage": ""
+      },
+      "longDistanceEnabled": 0,
+      "rainMode": "NONE",
+      "thirdPartyAddress": false,
+      "thirdPartyVendor": "",
+      "adTrackingID": "",
+      "badges": {
+        "imageBased": [
+          
+        ],
+        "textBased": [
+          
+        ],
+        "textExtendedBadges": [
+          
+        ]
+      },
+      "lastMileTravelString": "3 kms",
+      "hasSurge": false,
+      "sla": {
+        "restaurantId": "232125",
+        "deliveryTime": 26,
+        "minDeliveryTime": 26,
+        "maxDeliveryTime": 26,
+        "lastMileTravel": 3,
+        "lastMileDistance": 0,
+        "serviceability": "SERVICEABLE",
+        "rainMode": "NONE",
+        "longDistance": "NOT_LONG_DISTANCE",
+        "preferentialService": false,
+        "iconType": "EMPTY"
+      },
+      "promoted": false,
+      "avgRating": "3.3",
+      "totalRatings": 100,
+      "new": false
+    },
+    "subtype": "basic"
+  },
+  {
+    "type": "restaurant",
+    "data": {
+      "type": "F",
+      "id": "122064",
+      "name": "AK Restaurant",
+      "uuid": "4ac84bd1-7eed-4602-8217-10abc0816a07",
+      "city": "6",
+      "area": "Camp Area",
+      "totalRatingsString": "100+ ratings",
+      "cloudinaryImageId": "sauelg5k29edggp3sa0v",
+      "cuisines": [
+        "Chinese",
+        "North Indian",
+        "Biryani",
+        "Mughlai",
+        "Beverages"
+      ],
+      "tags": [
+        
+      ],
+      "costForTwo": 20000,
+      "costForTwoString": "₹200 FOR TWO",
+      "deliveryTime": 26,
+      "minDeliveryTime": 26,
+      "maxDeliveryTime": 26,
+      "slaString": "26 MINS",
+      "lastMileTravel": 3,
+      "slugs": {
+        "restaurant": "ak-cafe-and-biryani-house-mg-road-camp-2",
+        "city": "pune"
+      },
+      "cityState": "6",
+      "address": "2373 New Modikhana Hidayatulla, Near Azam Campus, MG Road, Pune",
+      "locality": "MG Road",
+      "parentId": 28434,
+      "unserviceable": false,
+      "veg": false,
+      "select": false,
+      "favorite": false,
+      "tradeCampaignHeaders": [
+        
+      ],
+      "aggregatedDiscountInfo": {
+        "header": "20% off",
+        "shortDescriptionList": [
+          {
+            "meta": "20% off | Use TRYNEW",
+            "discountType": "Percentage",
+            "operationType": "RESTAURANT"
+          }
+        ],
+        "descriptionList": [
+          {
+            "meta": "20% off up to ₹50 | Use code TRYNEW",
+            "discountType": "Percentage",
+            "operationType": "RESTAURANT"
+          }
+        ],
+        "subHeader": "",
+        "headerType": 0,
+        "superFreedel": ""
+      },
+      "aggregatedDiscountInfoV2": {
+        "header": "20% OFF",
+        "shortDescriptionList": [
+          {
+            "meta": "Use TRYNEW",
+            "discountType": "Percentage",
+            "operationType": "RESTAURANT"
+          }
+        ],
+        "descriptionList": [
+          {
+            "meta": "20% off up to ₹50 | Use code TRYNEW",
+            "discountType": "Percentage",
+            "operationType": "RESTAURANT"
+          }
+        ],
+        "subHeader": "",
+        "headerType": 0,
+        "superFreedel": ""
+      },
+      "chain": [
+        
+      ],
+      "feeDetails": {
+        "fees": [
+          {
+            "name": "time",
+            "fee": 0,
+            "message": ""
+          },
+          {
+            "name": "distance",
+            "fee": 4800,
+            "message": ""
+          },
+          {
+            "name": "special",
+            "fee": 0,
+            "message": ""
+          }
+        ],
+        "totalFees": 4800,
+        "message": "",
+        "title": "Delivery Charge",
+        "amount": "4800",
+        "icon": ""
+      },
+      "availability": {
+        "opened": true,
+        "nextOpenMessage": "",
+        "nextCloseMessage": ""
+      },
+      "longDistanceEnabled": 1,
+      "rainMode": "NONE",
+      "thirdPartyAddress": false,
+      "thirdPartyVendor": "",
+      "adTrackingID": "",
+      "badges": {
+        "imageBased": [
+          
+        ],
+        "textBased": [
+          
+        ],
+        "textExtendedBadges": [
+          
+        ]
+      },
+      "lastMileTravelString": "3 kms",
+      "hasSurge": false,
+      "sla": {
+        "restaurantId": "122064",
+        "deliveryTime": 26,
+        "minDeliveryTime": 26,
+        "maxDeliveryTime": 26,
+        "lastMileTravel": 3,
+        "lastMileDistance": 0,
+        "serviceability": "SERVICEABLE",
+        "rainMode": "NONE",
+        "longDistance": "IT_IS_LONG_DISTANCE",
+        "preferentialService": false,
+        "iconType": "EMPTY"
+      },
+      "promoted": false,
+      "avgRating": "3.0",
+      "totalRatings": 100,
+      "new": false
+    },
+    "subtype": "basic"
+  }
+]
