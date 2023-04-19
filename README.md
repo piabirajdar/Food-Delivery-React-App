@@ -13,7 +13,10 @@
 - Minification i.e Bundling, Compressing(core job)
 - Tree shaking - remove unused code.
 
-## COMPONENTS
+## Food ordering app COMPONENTS
 - HEADER - LOGO, NAV ITEMS
 - BODY - SEARCH , RestaurantContainer(RestaurantCard - Img, (Name of Res, Star Rating, Cuisine))
 - FOOTER - Copywrite, Links, Address, Contact
+
+## REACT HOOKS
+- Just simple JS utility functions
