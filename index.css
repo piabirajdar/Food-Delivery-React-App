@@ -6,6 +6,7 @@
     display: flex;
     justify-content: space-between;
     border: 1px solid black;
+    height: 100px
 }
 .logo {
     width: 100px;
@@ -53,4 +54,9 @@
 .filter-btn {
     margin: 10px;
     cursor: pointer;
+}
+
+.log-btn {
+    margin: 15px;
+    height: 70px;
 }
